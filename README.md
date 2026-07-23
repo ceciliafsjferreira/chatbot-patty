@@ -27,57 +27,6 @@ Além do desenvolvimento do chatbot, o projeto também tem como objetivo proporc
 * **Git e GitHub**
 * **Ambiente virtual (venv)**
 
-## Estrutura do projeto
-
-```text
-chatbot-cec/
-│
-├── .venv/                 # Ambiente virtual
-├── Patty.py               # Aplicação principal do chatbot
-├── requirements.txt       # Dependências do projeto
-└── README.md              # Documentação do projeto
-```
-
-## Como executar o projeto
-
-### 1. Clone o repositório
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
-### 2. Acesse a pasta do projeto
-
-```bash
-cd chatbot-cec
-```
-
-### 3. Crie um ambiente virtual
-
-```bash
-python -m venv .venv
-```
-
-### 4. Ative o ambiente virtual
-
-No Windows PowerShell:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-### 5. Instale as dependências
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Execute o chatbot
-
-```bash
-streamlit run Patty.py
-```
-
 Após a execução, o Streamlit disponibilizará uma URL local para acessar a aplicação pelo navegador.
 
 ## 🎯 Objetivo do projeto
