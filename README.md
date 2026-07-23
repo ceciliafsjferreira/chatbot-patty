@@ -99,6 +99,6 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 * Uso de ambientes virtuais;
 * Versionamento de código com Git e GitHub.
 
-## 👩‍💻 Autora
+## Autora
 
-Desenvolvido por **Cecília F. Souza**.
+Desenvolvido por **Cecília F. Souza**
